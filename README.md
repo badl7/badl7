@@ -1,4 +1,4 @@
-> ### Hi there 👋 
+ ### Hi there 👋 
 - 🌱 I’m currently learning Django, AI and ML(want to be data architect when grow up😄)
 - 🤔 I’m looking for help with Django
 
