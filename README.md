@@ -9,8 +9,6 @@
 - 🤔 I’m looking for help with Django
 </p>
 
-<p align="left"> You can reach me via <a href = "mailto:betul.gurbuz.dev@gmail.com">betul.gurbuz.dev@gmail.com</a>
-</p>
 
 ----
 
