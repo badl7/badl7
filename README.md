@@ -6,7 +6,9 @@
 - 🤔 I’m looking for help with Django
 </p>
 
-<p align="left"> You can reach me via <a href = "mailto: betul.gurbuz.dev@gmail.com</a></p>
+<p align="left"> You can reach me via <a href = "mailto:betul.gurbuz.dev@gmail.com">betul.gurbuz.dev@gmail.com</a>
+</p>
+----
 
 <p align="left"><a href="https://www.linkedin.com/in/betul-gurbuz-dev/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
