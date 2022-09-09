@@ -1,6 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=keremkargin0" alt="keremkargin0" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=badl7" alt="badl7" /> </p>
+
+----
 
 <h1 align="center"> Hi there! I'm Betul 👋 </h1>
+
 
 <p align="left"> I’m currently learning Django, AI and ML(want to be data architect when grow up😄)
 - 🤔 I’m looking for help with Django
@@ -8,6 +11,7 @@
 
 <p align="left"> You can reach me via <a href = "mailto:betul.gurbuz.dev@gmail.com">betul.gurbuz.dev@gmail.com</a>
 </p>
+
 ----
 
 <p align="left"><a href="https://www.linkedin.com/in/betul-gurbuz-dev/">
