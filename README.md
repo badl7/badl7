@@ -25,6 +25,13 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height=30></a>  
 </p>
 
+---
+
+## My GitHub Stats 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badl7&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [twitter]: https://twitter.com/7Betl
 [discord]: https://discord.com/channels/Ceres#6076
