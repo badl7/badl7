@@ -7,6 +7,7 @@
 
 
 <p align="left"> I’m currently learning Django, AI and ML(want to be data architect when grow up😄)
+<br>
 - 🤔 I’m looking for help with Django
 </p>
 
