@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=badl7" alt="badl7" /> </p>
+<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=badl7" alt="badl7" /> </p>-->
 
 ----
 
